@@ -1,6 +1,8 @@
 // Discord.js bot
 const Discord = require('discord.js');
 const client = new Discord.Client();
+
+/*
 var firebase = require('firebase');
 
 var config = {
@@ -23,6 +25,7 @@ function writeUserData(userId, date) {
   });
 }
 writeUserData("andy", new Date());
+*/
 
 
 
